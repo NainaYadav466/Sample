@@ -23,7 +23,7 @@ body {
 }
 .column.middle{
 
-  width: 40%;
+  width: 30%;
 }
 
 .column.side1{
@@ -69,6 +69,7 @@ h1 {
   text-align: center;
   text-decoration: none;
   float: right;
+  margin-right: 22px;
 }
 
 .fa:hover {
